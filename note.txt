@@ -1,0 +1,16 @@
+// use this command to install virtual environment (ubuntu)
+sudo apt install python3-venv
+python3 -m venv venv
+source venv/bin/activate
+
+// install requirements
+pip freeze > requirements.txt
+
+// run app
+run streamlit run app.py
+
+// link model
+https://drive.google.com/file/d/1A_KIYYHrGj_5TXHMmPMw6S14AzV8P0n4/view?usp=sharing
+
+// google colab link
+https://colab.research.google.com/drive/1ipvSJkJ8LWwmOUYcbeVSr2QHmjOzkbKn?usp=sharing

@@ -1,0 +1,4 @@
+venv
+__pycache__
+model
+banana_ripeness_model-uas.h5
